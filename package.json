@@ -2,7 +2,7 @@
   "name": "@f/to-middleware",
   "description": "Convert a function redux style middleware.",
   "repository": "git://github.com/micro-js/to-middleware.git",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
